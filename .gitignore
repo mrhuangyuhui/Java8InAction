@@ -9,5 +9,8 @@
 /*.iws
 /*.iml
 
+# Gitpod files
+!.gitpod.*
+
 # Repository wide ignore mac DS_Store files
 .DS_Store
